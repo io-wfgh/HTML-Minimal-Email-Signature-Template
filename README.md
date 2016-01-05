@@ -6,7 +6,7 @@ Created for use in **Thunderbird** with the help of the fine **Stationery** exte
 
 ### Example
 
-![HTML signature Boilerplate Template](HTML-Signature-Boilerplate/teaser.png "Raw image @ 1:1 Scale")
+![HTML signature Boilerplate Template](https://raw.githubusercontent.com/ioCreativo/HTML-Minimal-Email-Signature-Template/master/teaser.png "Raw image @ 1:1 Scale")
 
 ### Tested/Working On
 
