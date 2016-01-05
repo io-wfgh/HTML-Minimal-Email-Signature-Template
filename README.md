@@ -4,6 +4,8 @@ A simple, flat and minimalistic HTML email signature compatible with most email 
 
 Created for use in **Thunderbird** with the help of the fine **Stationery** extension. But it should be usable with any email client or editor that supports HTML.
 
+Includes Photoshop simple icon and logo templates.
+
 ### Example
 
 ![HTML signature Boilerplate Template](https://raw.githubusercontent.com/ioCreativo/HTML-Minimal-Email-Signature-Template/master/teaser.png "Raw image @ 1:1 Scale")
